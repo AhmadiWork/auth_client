@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-01-14T16:15:57.515Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: react-intl-po\n"
+
+
+#: src/translation/messages/messages.json
+#. [navBar.brandName]
+#. defaultMessage is:
+#. Auth
+msgctxt "navBar.brandName"
+msgid "Auth"
+msgstr "تایید صلاحیت"
+
+#: src/translation/messages/messages.json
+#. [signUp.email]
+#. defaultMessage is:
+#. Email
+msgctxt "signUp.email"
+msgid "Email"
+msgstr "ایمیل"
+
+#: src/translation/messages/messages.json
+#. [signUp.error.reqEmail]
+#. defaultMessage is:
+#. Email field can not be empty
+msgctxt "signUp.error.reqEmail"
+msgid "Email field can not be empty"
+msgstr "زمینه ایمیل نمیتواند خالی باشد"
+
+#: src/translation/messages/messages.json
+#. [navBar.featurePage]
+#. defaultMessage is:
+#. Feature Page
+msgctxt "navBar.featurePage"
+msgid "Feature Page"
+msgstr "صفحه خاص!"
+
+#: src/translation/messages/messages.json
+#. [signUp.error.inValidEmail]
+#. defaultMessage is:
+#. Invalid email address
+msgctxt "signUp.error.inValidEmail"
+msgid "Invalid email address"
+msgstr "آدرس ایمیل غیر معتبر است"
+
+#: src/translation/messages/messages.json
+#. [signUp.password]
+#. defaultMessage is:
+#. Password
+msgctxt "signUp.password"
+msgid "Password"
+msgstr "رمز عبور"
+
+#: src/translation/messages/messages.json
+#. [signUp.error.password]
+#. defaultMessage is:
+#. Password field can not be empty
+msgctxt "signUp.error.password"
+msgid "Password field can not be empty"
+msgstr "زمینه رمز عبور نیمتواند خالی باشد"
+
+#: src/translation/messages/messages.json
+#. [navBar.signIn]
+#. defaultMessage is:
+#. Sign In
+msgctxt "navBar.signIn"
+msgid "Sign In"
+msgstr "ورود"
+
+#: src/translation/messages/messages.json
+#. [navBar.singOut]
+#. defaultMessage is:
+#. Sing Out
+msgctxt "navBar.singOut"
+msgid "Sing Out"
+msgstr "خروج"
+
+#: src/translation/messages/messages.json
+#. [navBar.singUp]
+#. defaultMessage is:
+#. Sing Up
+msgctxt "navBar.singUp"
+msgid "Sing Up"
+msgstr "ثبت نام"
+
+#: src/translation/messages/messages.json
+#. [signUp.submit]
+#. defaultMessage is:
+#. Submit
+msgctxt "signUp.submit"
+msgid "Submit"
+msgstr "ثبت"
+
+#: src/translation/messages/messages.json
+#. [auth.error]
+#. defaultMessage is:
+#. User is exist
+msgctxt "auth.error"
+msgid "User is exist"
+msgstr "کاربر از قبل موجود است"
+
+#: src/translation/messages/messages.json
+#. [welcome.welcome]
+#. defaultMessage is:
+#. Welcome! Sign In or Sing Up
+msgctxt "welcome.welcome"
+msgid "Welcome! Sign In or Sing Up"
+msgstr "خوش آمدید! وارد سایت شوید و یا ثبت نام کنید"

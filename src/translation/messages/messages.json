@@ -1,0 +1,67 @@
+[
+  {
+    "id": "signUp.email",
+    "defaultMessage": "Email",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "signUp.password",
+    "defaultMessage": "Password",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "signUp.submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "signUp.error.reqEmail",
+    "defaultMessage": "Email field can not be empty",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "signUp.error.inValidEmail",
+    "defaultMessage": "Invalid email address",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "signUp.error.password",
+    "defaultMessage": "Password field can not be empty",
+    "filepath": "src/components/auth/SignUp.js"
+  },
+  {
+    "id": "navBar.brandName",
+    "defaultMessage": "Auth",
+    "filepath": "src/components/base/Header.js"
+  },
+  {
+    "id": "navBar.signIn",
+    "defaultMessage": "Sign In",
+    "filepath": "src/components/base/Header.js"
+  },
+  {
+    "id": "navBar.singOut",
+    "defaultMessage": "Sing Out",
+    "filepath": "src/components/base/Header.js"
+  },
+  {
+    "id": "navBar.singUp",
+    "defaultMessage": "Sing Up",
+    "filepath": "src/components/base/Header.js"
+  },
+  {
+    "id": "navBar.featurePage",
+    "defaultMessage": "Feature Page",
+    "filepath": "src/components/base/Header.js"
+  },
+  {
+    "id": "welcome.welcome",
+    "defaultMessage": "Welcome! Sign In or Sing Up",
+    "filepath": "src/components/pages/Welcome.js"
+  },
+  {
+    "id": "auth.error",
+    "defaultMessage": "User is exist",
+    "filepath": "src/redux/actions/index.js"
+  }
+]
